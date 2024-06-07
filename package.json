@@ -1,0 +1,12 @@
+{
+  "name": "caroussel-animation",
+  "version": "1.0.0",
+  "description": "A caroussel animation for a tourism website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
