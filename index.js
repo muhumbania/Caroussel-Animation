@@ -14,7 +14,7 @@ next.addEventListener('click', function(){
     });
 
     console.log(counter);
-
+    document.getElementById('8').setAttribute('src', `${document.getElementById('7').getAttribute('src')}`)
 });
 
 
@@ -27,5 +27,6 @@ prev.addEventListener('click', function(){
 
     if(counter<1)counter = 6;
 });
+
 console.log(items);
 // alert('Hello');

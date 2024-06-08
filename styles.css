@@ -17,7 +17,7 @@
     
     height: 150px;
     width: 150px;
-    
+    transition: 1.2s;
 }
 
 .main{
@@ -47,4 +47,6 @@
 img{
     height: 150px;
     width: 150px;
+    transition: 1.2s;
+    transition: ease-in-out;
 }
